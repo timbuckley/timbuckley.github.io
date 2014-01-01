@@ -15,8 +15,8 @@ p {
 }
 
 body {
-  background: #17607D;
-  font-size: 160%;
+/*  background: ;*/
+/*  font-size: 160%;*/
 }
 
 .group:after {
@@ -41,7 +41,7 @@ section#main {
   width: 1100px;
   margin: 40px auto;
   padding: 10px;
-  color: #FFF1CE;
+/*  color: ;*/
 }
 
 header h1, header nav {
@@ -60,11 +60,11 @@ section#content {
 }
 
 .main-item a {
-  color: #E33200;
+/*  color: ;*/
 }
 
 a:hover {
-  color: #FF9311;
+/*  color: ;*/
 }
 
 .main-item {
